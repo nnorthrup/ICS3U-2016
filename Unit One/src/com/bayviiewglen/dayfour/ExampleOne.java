@@ -3,7 +3,6 @@ package com.bayviiewglen.dayfour;
 public class ExampleOne {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//Example inclass
 		int digit1= (123456/100000);
 		int digit2 = (123456/10000%10);
