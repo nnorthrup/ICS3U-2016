@@ -6,7 +6,7 @@ public class Question2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Write what you got on you test followed by what it was out of : ");
+		System.out.print("Write what you got on you test followed by what it was out of (with a space between the two): ");
 		Scanner keyboard;
 
 		keyboard = new Scanner(System.in);
